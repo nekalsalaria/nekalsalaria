@@ -1,5 +1,5 @@
 <!-- Premium Header -->
-<h1 align="center">✨ Nekal Singh Salaria ✨</h1>
+<h1 align="center"> Nekal Singh Salaria </h1>
 <h3 align="center">SDE | Full-Stack Developer | DSA Mentor</h3>
 
 <p align="center">
@@ -58,7 +58,7 @@ A full-stack MERN platform where users can exchange skills.
 ✔ Protected routes  
 ✔ Request/accept workflow  
 
-🔗 [Live Demo](#https://swapskill-com-1.onrender.com/)
+[Live Demo](https://swapskill-com-1.onrender.com/)
 
 ---
 
