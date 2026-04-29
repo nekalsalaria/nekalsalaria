@@ -18,9 +18,9 @@
 I am a **Full-Stack Developer** and **DSA Mentor** with hands-on experience in building real-world applications and teaching thousands of students DSA.  
 I love writing clean code, solving challenging problems, and working on cool ideas.
 
-- 🔥 Currently DSA Mentor at **REGex Software Services**  
+- 🔥 Currently SDE & DSA Mentor at **REGex Software Services**  
 - 🎓 Former DSA Mentor at **GeeksforGeeks**  
-- 💻 Full-stack MERN Developer  
+- 💻 Full-stack Web Developer  
 - 🎯 Strong in **OS, DBMS, OOP, Computer Networks**
 
 ---
