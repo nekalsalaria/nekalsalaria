@@ -10,7 +10,7 @@ I'm **Nekal Singh Salaria**, a builder focused on real-world impact:
 - 🌐 Built & deployed production-ready applications
 - 💼 Freelancer
 
-📩 Reach me at: **nekalsingh987@gmail.com**
+📩 Reach me at: **nekalsingh987@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/nekalsingh/) | 🧠 [LeetCode](https://leetcode.com/u/nekalsingh987/)
 
 ---
 
