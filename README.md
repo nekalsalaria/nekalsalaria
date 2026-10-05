@@ -1,30 +1,14 @@
-# Hi, I'm Nekal Singh Salaria 👋
+<div align="center">
+  <img src="profile.svg" alt="Nekal Singh Salaria" width="100%"/>
+</div>
 
-**Full Stack Developer · DSA Mentor · Competitive Programmer**
+<div align="center">
 
-I build practical web products and teach 1000+ students to crack DSA and interviews.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nekalsingh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nekalsingh987/)
+[![NIKKUtheCoder](https://img.shields.io/badge/NIKKUtheCoder-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nikkuthecoder.site/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekalsingh987@gmail.com)
 
-## 🚀 What I'm Up To
-- **SDE & Mentor** @ REGex Software Services, building [NIKKUtheCoder](https://nikkuthecoder.site/), a coding platform with DSA, SQL, C & Dev modules
-- Previously **DSA Mentor** @ GeeksforGeeks (500+ students trained)
+<img src="https://skillicons.dev/icons?i=js,cpp,c,react,tailwind,nodejs,express,mongodb,postgres,socketio,git,postman&perline=12" />
 
-## 🛠️ Tech Stack
-**Languages:** JavaScript (ES6+), C++, C, SQL
-**Frontend:** React.js, Tailwind CSS, HTML, CSS
-**Backend:** Node.js, Express.js, REST APIs, JWT, Socket.IO
-**Databases:** MongoDB, PostgreSQL
-**Tools:** Git, GitHub, Postman, Vercel, Render, Railway
-
-## 📌 Featured Projects
-- **[NIKKUtheCoder](https://nikkuthecoder.site/)**: Full-stack coding platform, 300+ active users, 30% lower API latency, 99%+ uptime
-- **[NIKKUtheCoder](swapskill-com-1.onrender.com)**: Skill-sharing platform with JWT auth, 112+ users, REST APIs
-
-## 🏆 Highlights
-- 800+ problems solved on LeetCode
-- LeetCode rating 1700+ across 20+ contests
-- 100+ live batches conducted, 1000+ students mentored
-
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/nekalsingh/) · [LeetCode](https://leetcode.com/u/nekalsingh987/) · nekalsingh987@gmail.com
-
-⭐ *Let's build something impactful.*
+</div>
